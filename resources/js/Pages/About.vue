@@ -1,7 +1,7 @@
 <template>
 <Layout>
     <Head title="About" />
-    <h1>Abouth1</h1>
+    <h1>About</h1>
 </Layout>
 </template>
 
